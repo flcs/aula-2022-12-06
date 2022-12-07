@@ -1,0 +1,28 @@
+{
+  "name": "aula-2022-12-06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flcs/aula-2022-12-06.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flcs/aula-2022-12-06/issues"
+  },
+  "homepage": "https://github.com/flcs/aula-2022-12-06#readme",
+  "devDependencies": {
+    "@types/jest": "^29.2.4",
+    "@types/node": "^18.11.11",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.9.3"
+  }
+}
