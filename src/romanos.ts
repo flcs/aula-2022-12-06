@@ -4,9 +4,10 @@ interface IRomanos{
 
 class Romanos{
 
-    dicionario
-    romanos
-    arabicos
+    dicionario : Array<string>;
+    romanos : Array<string>;
+    arabicos : Array<number>;
+    
     constructor(){
         this.dicionario = [
             '',
